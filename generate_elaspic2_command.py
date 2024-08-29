@@ -15,7 +15,7 @@ for index, row in df.iterrows():
     mutations = row['Predictions']
 
     # Construct the elaspic2 command
-    command = f"python -m elaspic2 --protein-structure PDB/{pdb}.pdb --protein-sequence {protein_sequence}"
+    command = f"python -m elaspic2 --protein-structure ./data/PDB/{pdb}.pdb --protein-sequence {protein_sequence}"
     if ligand_sequence:
         command += f" --ligand-sequence {ligand_sequence}"
     command += f" --mutations {mutations} > elaspic_result/{index}"
