@@ -61,6 +61,6 @@ else:
     df = pd.DataFrame(all_data, columns=['Filename', 'DomainDef', 'Sequence', 'Mutation', 'Protbert_core', 'Proteinsolver_core', 'El2core'])
 
     # Save to Excel
-    excel_filename = './result/aggregated_elaspic_data.xlsx'
+    excel_filename = './result/aggregated_elaspic2_data.xlsx'
     df.to_excel(excel_filename, index=False)
     print(f"Data saved to {excel_filename}")
