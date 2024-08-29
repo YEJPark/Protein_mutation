@@ -27,4 +27,7 @@ for index, row in df.iterrows():
 commands_df = pd.DataFrame(commands, columns=['Command'])
 
 # Save the DataFrame to a TSV file
-commands_df.to_csv('elaspic2_commands.tsv', sep='\t', index=False)
+#commands_df.to_csv('elaspic2_commands.tsv', sep='\t', index=False)
+
+# Save the DataFrame to a .sh file
+commands_df.to_csv('elaspic2_commands.sh', sep='\t', index=False, header=False)
