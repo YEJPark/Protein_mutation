@@ -55,5 +55,5 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0], desc="Processing sequen
     df.at[index, 'Scores'] = scores_str
 
 # Save to a new Excel file
-new_file_path = 'modified_sequences_score.xlsx'
+new_file_path = './result/modified_sequences_score.xlsx'
 df.to_excel(new_file_path, index=False)
