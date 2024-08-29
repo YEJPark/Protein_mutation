@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the Excel file
-file_path = 'modified_sequences.xlsx'  # Replace with your actual file path
+file_path = './result/modified_sequences.xlsx'  # Replace with your actual file path
 df = pd.read_excel(file_path)
 
 # Initialize a list to store the commands
