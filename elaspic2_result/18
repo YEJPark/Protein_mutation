@@ -1,0 +1,6 @@
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=33)
+DSKLCYLLDGILFIYGVILTALFLRVKFSRSAD
+{"mutation": "D1M", "protbert_core": -0.9207470547407866, "proteinsolver_core": -0.11317881755530834, "el2core": -2.8766438073568907}
+{"mutation": "L7I", "protbert_core": -0.0021220743656158447, "proteinsolver_core": 0.03345049172639847, "el2core": -0.44369635051853135}
+{"mutation": "V17I", "protbert_core": -0.012892819941043854, "proteinsolver_core": 0.011530622839927673, "el2core": 0.23438034828583584}
+{"mutation": "R25K", "protbert_core": -0.00033777207136154175, "proteinsolver_core": 0.0025166738778352737, "el2core": -0.18361283456996036}

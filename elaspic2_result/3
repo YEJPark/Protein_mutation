@@ -1,0 +1,5 @@
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=62)
+DVMWEYKWENTGDAELYGPFTSAQMQTWVSEGYFPDGVYCRKLDPPGGQFYNSKRIDFDLYT
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=62)
+DVMWEYKWENTGDAELYGPFTSAQMQTWVSEGYFPDGVYCRKLDPPGGQFYNSKRIDFDLYT
+{"mutation": "D1M", "protbert_core": 0.358539585955441, "proteinsolver_core": -0.10334925353527069, "el2core": 0.910890348564081, "protbert_interface": 0.3176981620490551, "proteinsolver_interface": -0.03550396114587784, "el2interface": 0.31640510218137496}

@@ -1,0 +1,9 @@
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=102)
+TNALETWGALGQDINLDIPSFQMSDDIDDIKWEKTSDKKKIAQFRKEKETFKEKDTYELLKNGALKIKHLKTDDQDIYKVSIYDTKGKNVLEKIFDLKIQER
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=102)
+TNALETWGALGQDINLDIPSFQMSDDIDDIKWEKTSDKKKIAQFRKEKETFKEKDTYELLKNGALKIKHLKTDDQDIYKVSIYDTKGKNVLEKIFDLKIQER
+{"mutation": "I14V", "protbert_core": -0.04522934556007385, "proteinsolver_core": 0.22914133220911026, "el2core": -0.5290762408871651, "protbert_interface": -0.14334586262702942, "proteinsolver_interface": 0.23616903275251389, "el2interface": -1.3253835746231681}
+{"mutation": "T56R", "protbert_core": -0.543788705021143, "proteinsolver_core": 0.031429248745553195, "el2core": -1.9457295440648956, "protbert_interface": -0.5865162257105112, "proteinsolver_interface": 0.019675722112879157, "el2interface": -1.1774968481577142}
+{"mutation": "Q75S", "protbert_core": -0.15141987055540085, "proteinsolver_core": -0.03272852674126625, "el2core": -1.7227622451306244, "protbert_interface": -0.1025160476565361, "proteinsolver_interface": -0.02582002803683281, "el2interface": -1.46095931285081}
+{"mutation": "D76G", "protbert_core": -0.8224570825695992, "proteinsolver_core": 0.042766064405441284, "el2core": -2.6903137807653406, "protbert_interface": -0.6522893980145454, "proteinsolver_interface": 0.055607409216463566, "el2interface": -1.9021050375734747}
+{"mutation": "I99V", "protbert_core": -0.41071759164333344, "proteinsolver_core": -0.12180276215076447, "el2core": -2.30031712560478, "protbert_interface": -0.3423895388841629, "proteinsolver_interface": -0.10593773424625397, "el2interface": -1.8882052203135322}

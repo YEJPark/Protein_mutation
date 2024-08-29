@@ -1,0 +1,7 @@
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=105)
+KEITNALETWGALGQDINLDIPSFQMSDDIDDIKWEKTSDKKKIAQFRKEKETFKEKDTYKLFKNGTLKIKHLKTDDQDIYKVSIYDTKGKNVLEKIFDLKIQER
+{"mutation": "I17V", "protbert_core": -0.02938815951347351, "proteinsolver_core": -0.10196259617805481, "el2core": -1.6255107922947583}
+{"mutation": "T59R", "protbert_core": -0.5281411772593856, "proteinsolver_core": 0.02988537587225437, "el2core": -2.6960371552176796}
+{"mutation": "H72N", "protbert_core": -0.5458669252693653, "proteinsolver_core": -0.24706861190497875, "el2core": -3.0134914235192762}
+{"mutation": "D79G", "protbert_core": -0.8187409564852715, "proteinsolver_core": 0.009075425565242767, "el2core": -3.096023362825392}
+{"mutation": "I102V", "protbert_core": -0.3649139106273651, "proteinsolver_core": 0.04336243122816086, "el2core": -1.9227695966601706}

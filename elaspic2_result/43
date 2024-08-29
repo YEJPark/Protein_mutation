@@ -1,0 +1,19 @@
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=160)
+APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDFTMQFVSS
+{"mutation": "A1M", "protbert_core": -0.18439852073788643, "proteinsolver_core": -0.0008923709392547607, "el2core": -2.161509772321128}
+{"mutation": "P2R", "protbert_core": -0.01543983444571495, "proteinsolver_core": 0.03326231241226196, "el2core": -0.13430266936164834}
+{"mutation": "L6Q", "protbert_core": 0.06077871099114418, "proteinsolver_core": 0.2032747995108366, "el2core": 0.6525084571999809}
+{"mutation": "M20L", "protbert_core": -0.15513576194643974, "proteinsolver_core": -0.04272645432502031, "el2core": -2.3277596374435334}
+{"mutation": "G22S", "protbert_core": 0.004814997315406799, "proteinsolver_core": 0.12384262681007385, "el2core": 0.05707023818389243}
+{"mutation": "Q34G", "protbert_core": -0.021673910319805145, "proteinsolver_core": -0.08003896847367287, "el2core": -1.274192367891304}
+{"mutation": "D35N", "protbert_core": 0.003916926681995392, "proteinsolver_core": 0.028239570558071136, "el2core": -0.07624773034099062}
+{"mutation": "M36L", "protbert_core": -0.050364233553409576, "proteinsolver_core": -0.1302892565727234, "el2core": -1.7837169808662423}
+{"mutation": "E37N", "protbert_core": 0.0028543993830680847, "proteinsolver_core": -0.005292467772960663, "el2core": -0.4836438924991486}
+{"mutation": "L62I", "protbert_core": 0.02262122556567192, "proteinsolver_core": 0.23138655722141266, "el2core": 0.5293919056231325}
+{"mutation": "E64D", "protbert_core": -0.04718833044171333, "proteinsolver_core": -0.07665317133069038, "el2core": -1.6984039628548944}
+{"mutation": "L73M", "protbert_core": 0.032425399869680405, "proteinsolver_core": 0.03841225150972605, "el2core": 6.0698969954054806e-05}
+{"mutation": "L110V", "protbert_core": -0.05012866482138634, "proteinsolver_core": -0.07315970957279205, "el2core": -1.5633304692819026}
+{"mutation": "Q116L", "protbert_core": -0.023299917578697205, "proteinsolver_core": 0.009976789355278015, "el2core": -0.6203541999276343}
+{"mutation": "F117Y", "protbert_core": -0.1353984922170639, "proteinsolver_core": 0.02650722861289978, "el2core": -1.2855541085916435}
+{"mutation": "M130K", "protbert_core": -0.16493529826402664, "proteinsolver_core": -0.0822069188579917, "el2core": -1.8955318992051293}
+{"mutation": "G136N", "protbert_core": -0.0013731680810451508, "proteinsolver_core": 0.0037412792444229126, "el2core": -0.6914070093833634}

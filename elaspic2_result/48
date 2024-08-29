@@ -1,0 +1,21 @@
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=228)
+APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDWTMQFVSS
+{"mutation": "A1M", "protbert_core": -0.14702247083187103, "proteinsolver_core": -0.04458118602633476, "el2core": -2.1614092039162527}
+{"mutation": "P2R", "protbert_core": -0.022215448319911957, "proteinsolver_core": 0.7237732214853168, "el2core": 1.8598731539206115}
+{"mutation": "L6Q", "protbert_core": 0.061649974435567856, "proteinsolver_core": 0.24036388425156474, "el2core": 1.2960107623324797}
+{"mutation": "M20L", "protbert_core": -0.17689786478877068, "proteinsolver_core": -0.2023693174123764, "el2core": -2.5823479926613433}
+{"mutation": "G22S", "protbert_core": -0.002110309898853302, "proteinsolver_core": 0.14585691690444946, "el2core": -0.23265664683688622}
+{"mutation": "Q34G", "protbert_core": -0.01709805428981781, "proteinsolver_core": 0.03449973836541176, "el2core": -0.8034154295290259}
+{"mutation": "D35N", "protbert_core": 0.006081856787204742, "proteinsolver_core": -0.005055703222751617, "el2core": -0.2663319451138394}
+{"mutation": "M36L", "protbert_core": -0.04776429571211338, "proteinsolver_core": -0.06872430816292763, "el2core": -1.700090253734002}
+{"mutation": "E37N", "protbert_core": 0.0007973015308380127, "proteinsolver_core": -0.0015385448932647705, "el2core": -0.5160166810192437}
+{"mutation": "L62I", "protbert_core": 0.02486070990562439, "proteinsolver_core": 0.6065799295902252, "el2core": 1.3586360814313039}
+{"mutation": "E64D", "protbert_core": -0.03932207450270653, "proteinsolver_core": -0.1537792757153511, "el2core": -1.9138666805857498}
+{"mutation": "L73M", "protbert_core": 0.026654619723558426, "proteinsolver_core": 0.08263231813907623, "el2core": -0.04891481090185906}
+{"mutation": "L110V", "protbert_core": -0.04885726422071457, "proteinsolver_core": 0.14392897486686707, "el2core": -0.2496078830184795}
+{"mutation": "Q116L", "protbert_core": -0.018997833132743835, "proteinsolver_core": -0.011696044355630875, "el2core": -0.8385597763477914}
+{"mutation": "F117Y", "protbert_core": -0.09630066156387329, "proteinsolver_core": 0.17059731483459473, "el2core": -0.5585237725401303}
+{"mutation": "M130K", "protbert_core": -0.15858817286789417, "proteinsolver_core": -0.031059492379426956, "el2core": -1.8498928322091341}
+{"mutation": "G136N", "protbert_core": -0.008805375546216965, "proteinsolver_core": -0.025772664695978165, "el2core": -0.96007116426976}
+{"mutation": "W146F", "protbert_core": -0.055374667048454285, "proteinsolver_core": 0.8554279245436192, "el2core": 1.0293180929815968}
+{"mutation": "M148I", "protbert_core": -0.121744804084301, "proteinsolver_core": -0.1907745711505413, "el2core": -1.940750574882921}

@@ -1,0 +1,16 @@
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=161)
+MNLAISIALLLTVLQVSRGQKVTSLTACLVDQSLRLDCRHENTSSSPIQYEFSLTRETKKHVLFGTVGVPEHTYRSRTNFTSKYNMKVLYLSAFTSKDEGTYTCALHHSGHSPPISSQNVTVLRDKLVKCEGISLLAQNTSWLLLLLLSLSLLQATDFMSL
+{"mutation": "L3P", "protbert_core": 0.09668386727571487, "proteinsolver_core": 0.07765381783246994, "el2core": -0.8155036533782781}
+{"mutation": "D31N", "protbert_core": -0.03637319803237915, "proteinsolver_core": -0.047807350754737854, "el2core": -0.8417237393639022}
+{"mutation": "F52L", "protbert_core": 0.0016481690108776093, "proteinsolver_core": 0.8517810869961977, "el2core": 1.3130109092496214}
+{"mutation": "R56K", "protbert_core": -0.06930474936962128, "proteinsolver_core": -0.37454111874103546, "el2core": -1.8012783089583035}
+{"mutation": "M86L", "protbert_core": -0.027637130580842495, "proteinsolver_core": -0.015189165249466896, "el2core": -1.3634366525170598}
+{"mutation": "K97S", "protbert_core": -0.0835842490196228, "proteinsolver_core": -0.05192318931221962, "el2core": -1.7449390707433585}
+{"mutation": "E99A", "protbert_core": -0.15072377026081085, "proteinsolver_core": 0.051140435971319675, "el2core": -1.1667967865696875}
+{"mutation": "A105E", "protbert_core": -0.021717410534620285, "proteinsolver_core": 0.08442695159465075, "el2core": 0.3015923370782531}
+{"mutation": "S112P", "protbert_core": 0.0357312336564064, "proteinsolver_core": 0.026673994958400726, "el2core": -1.0447138442511463}
+{"mutation": "R124K", "protbert_core": -0.028457924723625183, "proteinsolver_core": -0.1598474606871605, "el2core": -1.4275870902400547}
+{"mutation": "D125E", "protbert_core": -0.02417585253715515, "proteinsolver_core": 0.07791781425476074, "el2core": -0.10325121729153884}
+{"mutation": "V128E", "protbert_core": -0.010102629661560059, "proteinsolver_core": 0.07760252058506012, "el2core": -0.4191121916239114}
+{"mutation": "A137V", "protbert_core": -0.004661045968532562, "proteinsolver_core": 0.06029889173805714, "el2core": 0.12973450752762983}
+{"mutation": "S151P", "protbert_core": 0.02923227846622467, "proteinsolver_core": 0.12113004387356341, "el2core": 0.6256317970196705}

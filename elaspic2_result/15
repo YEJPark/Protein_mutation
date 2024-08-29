@@ -1,0 +1,3 @@
+DomainDef(model_id=0, chain_id='A', domain_start=1, domain_end=41)
+GPSKPFWVLVVVGGVLAFYSLLVTVAFIIFWVRSKRSRLLH
+{"mutation": "G1M", "protbert_core": -0.6883542090654373, "proteinsolver_core": 0.05700144171714783, "el2core": -2.4312094871839025}
