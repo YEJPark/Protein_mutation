@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 # Directory containing the files
-directory = 'elaspic_result'
+directory = 'elaspic2_result'
 
 # Prepare a list to store all the data
 all_data = []
@@ -61,6 +61,6 @@ else:
     df = pd.DataFrame(all_data, columns=['Filename', 'DomainDef', 'Sequence', 'Mutation', 'Protbert_core', 'Proteinsolver_core', 'El2core'])
 
     # Save to Excel
-    excel_filename = 'aggregated_elaspic_data.xlsx'
+    excel_filename = './result/aggregated_elaspic_data.xlsx'
     df.to_excel(excel_filename, index=False)
     print(f"Data saved to {excel_filename}")
