@@ -13,7 +13,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 pip = pipeline('fill-mask', model=model, tokenizer=tokenizer, device=2 if device == "cuda" else -1)
 
 # Read the Excel file
-file_path = 'make_mutation_elaspic2.xlsx' 
+file_path = './data/protein_sequence.xlsx' 
 df = pd.read_excel(file_path)
 
 # Check and add necessary columns
