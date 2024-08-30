@@ -2,7 +2,7 @@ Workflow for Mutation Analysis
 This repository outlines the steps to perform mutation analysis based on protein sequences and structures.
 
 Steps:
-1. Create protein_sequence.xlsx:
+#1. Create protein_sequence.xlsx:
 - Search for the target protein (e.g., CD2) sequence data on UniProt.
 - Search for the corresponding PDB entry (structure data) on PDB.
 
