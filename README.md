@@ -16,7 +16,7 @@ Follow the steps below to run the mutation analysis using the provided scripts.
 
 - Run one of the following scripts to generate the mutated protein sequences:
   - `make_mutation.py`
-  - `make_mutation_score.py`
+  - `make_mutation_with_score.py`
   
 ### 3. Create ELASPIC2 Commands
 
